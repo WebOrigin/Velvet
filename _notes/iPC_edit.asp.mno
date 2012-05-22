@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:编号;datatype:3,name:Text_ID;datatype:202,name:Text_Cont;datatype:203,name:Picture_ID;datatype:202,name:Picture_URL;datatype:202,name:SmallText;datatype:202,name:Text_Title_Cont;datatype:202" />
+</info>

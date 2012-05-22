@@ -17,10 +17,10 @@
 <file name="menu.swf" server="c:/inetpub/wwwroot/iPageNZ_CMS/" local="128559429610312500" remote="128559429610000000" />
 <file name="logo.png" server="C:/inetpub/wwwroot/VELVET/" local="128557488197656250" remote="128557488190000000" />
 <file name="top_bar.png" server="C:/inetpub/wwwroot/VELVET/" local="128557169263906250" remote="128557169260000000" />
-<file name="menu.swf" server="C:/inetpub/wwwroot/VELVET/" local="128563520230000000" remote="128563520230000000" />
-<file name="home_main.swf" server="C:/inetpub/wwwroot/VELVET/" local="128563521658437500" remote="128563521650000000" />
+<file name="menu.swf" server="C:/inetpub/wwwroot/VELVET/" local="128576449595312500" remote="128576449590000000" />
+<file name="home_main.swf" server="C:/inetpub/wwwroot/VELVET/" local="128576470546562500" remote="128576470540000000" />
 <file name="buttom-bar.png" server="C:/inetpub/wwwroot/VELVET/" local="128557257360000000" remote="128557257360000000" />
-<file name="top_ban.swf" server="C:/inetpub/wwwroot/VELVET/" local="128563520519843750" remote="128563520510000000" />
+<file name="top_ban.swf" server="C:/inetpub/wwwroot/VELVET/" local="128576504990781250" remote="128576504990000000" />
 <file name="logo.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128557488197656250" remote="128557488190000000" />
 <file name="top_ban.swf" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565882057812500" remote="128565882050000000" />
 <file name="menu.swf" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565177464375000" remote="128565177460000000" />
@@ -29,14 +29,9 @@
 <file name="Velvet-all-pages_02.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565164006523440" remote="128565164000000000" />
 <file name="Velvet-all-pages_03.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565181255937500" remote="128565181250000000" />
 <file name="Velvet-all-pages_06.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565181261875000" remote="128565181260000000" />
-<file name="Velvet-all-pages-PSD_06.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565992986875000" remote="128565992980000000" />
-<file name="Velvet-testimonial-PSD_03.gif" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565252330625000" remote="128565252330000000" />
-<file name="Velvet-testimonial-PSD_06.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565257281250000" remote="128565257280000000" />
-<file name="Velvet-testimonial-PSD_08.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565257271250000" remote="128565257270000000" />
-<file name="Velvet-testimonial-PSD_10.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565257292187500" remote="128565257290000000" />
-<file name="Velvet-all-pages-PSD_13.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565262901093750" remote="128565262900000000" />
 <file name="Velvet-all-pages-PSD_14.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128565285902343750" remote="128565285900000000" />
-<file name="conference.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128566011532812500" remote="128566011530000000" />
-<file name="branding_solution.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128566023938906250" remote="128566023930000000" />
-<file name="productlaunch.png" server="C:/inetpub/wwwroot/VELVET_ST/" local="128569497242500000" remote="128569497240000000" />
+<file name="Velvet-all-pages_02.png" server="C:/inetpub/wwwroot/VELVET/" local="128565164006523440" remote="128565164000000000" />
+<file name="Velvet-all-pages_03.png" server="C:/inetpub/wwwroot/VELVET/" local="128565181255937500" remote="128565181250000000" />
+<file name="Velvet-all-pages_06.png" server="C:/inetpub/wwwroot/VELVET/" local="128565181261875000" remote="128565181260000000" />
+<file name="Velvet-all-pages-PSD_14.png" server="C:/inetpub/wwwroot/VELVET/" local="128565285902343750" remote="128565285900000000" />
 </dwsync>
