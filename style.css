@@ -1,0 +1,94 @@
+.table_fm {
+	background-repeat: no-repeat;
+	color: 27252b;
+}
+.STYLE2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000033
+}
+.STYLE2 a:link {
+	text-decoration: none;
+	color:#666666;
+}
+.STYLE2 a:visited {
+	text-decoration: none;
+	color:#666666;
+}
+.STYLE8 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+.STYLE7 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.STYLE2 a:hover {
+	text-decoration: none;
+}
+.STYLE2 a:active {
+	text-decoration: none;
+}
+.Logo_St {
+	background-repeat: no-repeat;
+}
+.listst{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	padding-top:10px;
+	color:#1e0962;
+}
+.listst a:link {
+	color: #1e0962;
+	text-decoration: none;
+}
+.listst a:visited {
+	text-decoration: none;
+	color: #1e0962;
+}
+.listst a:hover {
+	text-decoration: underline;
+	color: #1e0962;
+}
+.listst a:active {
+	text-decoration: none;
+	color: #1e0962;
+}
+.STitle{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	padding-top:3px;
+	color:#27252b;
+	padding-left:14px;
+	padding-bottom:7px;
+}
+.SText{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	padding-left:14px;
+}
+.SText1{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#1e0962;
+	font-weight: bold;
+}
+.STYLE10 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}
+
+.SText2{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#27252b;
+	padding-top:7px;
+}
+.STYLE9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.Spic{
+	padding-top:7px;
+}
